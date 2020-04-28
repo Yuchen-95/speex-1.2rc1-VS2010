@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="libspeex">
+</Property><Property Name="解决方案文件" Value="D:\OneFiles\Audio and video\speex\speex-1.2rc1\win32\VS2008\libspeex.sln">
+</Property><Property Name="Date" Value="2016年5月13日">
+</Property><Property Name="Time" Value="20:29:25">
+</Property><Property Name="日志号" Value="4">
+</Property></Properties><Event ErrorLevel="0" Project="libspeex" Source="libspeex\libspeex.vcproj" Description="Converting project file 'D:\OneFiles\Audio and video\speex\speex-1.2rc1\win32\VS2008\libspeex\libspeex.vcproj'.">
+</Event><Event ErrorLevel="2" Project="D:\OneFiles\Audio and video\speex\speex-1.2rc1\win32\VS2008\libspeex\libspeex.vcproj" Source="" Description="The following error has occurred during XML parsing:&#xA;&#xA;File: D:\OneFiles\Audio and video\speex\speex-1.2rc1\win32\VS2008\libspeex\libspeex.vcproj&#xA;Line: 97&#xA;Column: 5&#xA;Error Message:&#xA;根据父元素 'Configurations' 的内容模型，元素 'Tool' 为意外元素。&#xA;要求: Configuration。&#xA;&#xA;The file 'D:\OneFiles\Audio and video\speex\speex-1.2rc1\win32\VS2008\libspeex\libspeex.vcproj' has failed to load.">
+</Event><Event ErrorLevel="2" Project="libspeex" Source="libspeex\libspeex.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="libspeex" Source="libspeex\libspeex.vcproj" Description="未转换">
+</Event></UpgradeLog>

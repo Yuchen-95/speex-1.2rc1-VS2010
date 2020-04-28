@@ -1,0 +1,12 @@
+
+1、libspeex.lib 原始生成路径
+$(SolutionDir) Release\1>Lib:
+
+1>  libspeex.vcxproj -> D:\OneFiles\Audio and video\speex\speex-1.2rc1\win32\VS2008\libspeex\Release\libspeex.lib
+修改生成路径，库管理器-->常规-->../../../lib/libspeex.lib or ..\..\..\lib\libspeex.lib
+
+2、libspeexdsp.lib 原始生成目录
+
+1>Lib:
+1>  libspeexdsp.vcxproj -> D:\OneFiles\Audio and video\speex\speex-1.2rc1\win32\VS2008\libspeexdsp\Release\libspeexdsp.lib
+

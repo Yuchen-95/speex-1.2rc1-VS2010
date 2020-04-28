@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (testecho.vcxproj, testenc.vcxproj, testenc_uwb.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  testenc_wb.c
+c:\users\zoom admin\desktop\speex-1.2rc1-vs2010\libspeex\testenc_wb.c(123): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+c:\users\zoom admin\desktop\speex-1.2rc1-vs2010\libspeex\testenc_wb.c(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\zoom admin\desktop\speex-1.2rc1-vs2010\libspeex\testenc_wb.c(76): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\zoom admin\desktop\speex-1.2rc1-vs2010\libspeex\testenc_wb.c(78): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\zoom admin\desktop\speex-1.2rc1-vs2010\libspeex\testenc_wb.c(82): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\Users\Zoom Admin\Desktop\speex-1.2rc1-VS2010\win32\VS2008\tests\Release\testenc_wb.exe) does not match the Linker's OutputFile property value (C:\Users\Zoom Admin\Desktop\speex-1.2rc1-VS2010\bin\testenc_wb.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  testenc_wb.vcxproj -> C:\Users\Zoom Admin\Desktop\speex-1.2rc1-VS2010\win32\VS2008\tests\Release\testenc_wb.exe

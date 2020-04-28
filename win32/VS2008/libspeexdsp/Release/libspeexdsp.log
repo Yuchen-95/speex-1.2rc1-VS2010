@@ -1,0 +1,4 @@
+﻿  mdf.c
+c:\users\zoom admin\desktop\speex-1.2rc1-vs2010\libspeex\mdf.c(1053): warning C4033: 'speex_echo_cancellation' must return a value
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1397,5): warning MSB8012: TargetPath(C:\Users\Zoom Admin\Desktop\speex-1.2rc1-VS2010\win32\VS2008\libspeexdsp\Release\libspeexdsp.lib) does not match the Library's OutputFile property value (C:\Users\Zoom Admin\Desktop\speex-1.2rc1-VS2010\lib\libspeexdsp.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+  libspeexdsp.vcxproj -> C:\Users\Zoom Admin\Desktop\speex-1.2rc1-VS2010\win32\VS2008\libspeexdsp\Release\libspeexdsp.lib
